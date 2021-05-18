@@ -1,3 +1,5 @@
+[Auditing in the browser?](https://coliru.stacked-crooked.com/a/e4385d6d4d51df62)
+
 <p align="center">
   <img src="https://github.com/compromise-evident/RICINoptic/blob/main/Close-up.jpeg">
 </p>
