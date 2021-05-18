@@ -27,7 +27,7 @@
 (1) project box         (with good light insulation.)
 ```
 
-
+## Aim for this signature on the receiving end:
 <p align="center">
   <img src="https://github.com/compromise-evident/RICINoptic/blob/main/Waveform.png">
 </p>
