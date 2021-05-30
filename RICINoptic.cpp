@@ -8,6 +8,7 @@ In the original RICIN program you transfer files through sound using a headphone
 and tiny microphone taped together  face-to-face.  Procedures here are  similar.
 Apparatus layout is found in the link:  github.com/compromise-evident/RICINoptic
 Automate RICIN systems with a GUI human activity emulator:   apt install actiona
+Compress original files with   .tar.bz2  for maimum reduction in transfer times.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * WARNING:  always assume the proprietary software on your proprietary design is
   broadcasting your computer details  as it assumes that something is listening,
