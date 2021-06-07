@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/compromise-evident/RICINoptic/blob/main/Materials.jpeg">
+  <img src="https://github.com/compromise-evident/RICINoptic/blob/main/Other/Materials.jpeg">
 </p>
 
 <p align="center">
