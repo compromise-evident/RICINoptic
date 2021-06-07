@@ -31,5 +31,5 @@
 
 ## Aim for this signature on the receiving end:
 <p align="center">
-  <img src="https://github.com/compromise-evident/RICINoptic/blob/main/Waveform.png">
+  <img src="https://github.com/compromise-evident/RICINoptic/blob/main/Other/Waveform.png">
 </p>
