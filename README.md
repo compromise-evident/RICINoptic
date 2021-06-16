@@ -32,7 +32,7 @@ Transfer any file through light between online and secure offline machines - Res
 (1) photoresistor       (use the smallest one of five in $5 assorted 5-pack at Hobby Town USA part#: RSH2761657.)
 (1) blue LED            (5mm 3.2V 20mA, 467.5nm, 11,000mcd, 15 deg view, $6 at Hobby Town USA part#: RSH2760316.)
 (1) S9018 transistor    (NPN transistor, find some CRT TVs and de-solder.)
-(1) project box         (with good light insulation.)
+(1) project box         (with a closing lid as shown--for good light insulation.)
 ```
 
 ## Aim for this signature on the receiving end:
