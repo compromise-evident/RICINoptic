@@ -4,7 +4,7 @@ Transfer any file through light between online and secure offline machines - Res
 
 
 
-[Auditing in the browser?](https://coliru.stacked-crooked.com/a/e4385d6d4d51df62)
+[Auditing in the browser?](https://coliru.stacked-crooked.com/a/701cd0dd7dfb6e02)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/RICINoptic/blob/main/Other/Close-up.jpeg">
